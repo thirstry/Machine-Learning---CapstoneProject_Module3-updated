@@ -1,6 +1,6 @@
-# capstone-module-3
+# Capstone Module 3 _ Machine Learning: Regression
 
-dengan semakin hari nya waktu bertambah, harga properti semakin tinggi dan tidak mudah dijangkau untuk semua orang, dalam kasus dataset yang di berikan pada tahun 1990 pada california, kita akan memprediksi harga properti dengan pendekatan machine learning
+Dengan semakin hari nya waktu bertambah, harga properti semakin tinggi dan tidak mudah dijangkau untuk semua orang, dalam kasus dataset yang di berikan pada tahun 1990 pada california, kita akan memprediksi harga properti dengan pendekatan machine learning
 
 **Context**
 
